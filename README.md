@@ -8,10 +8,6 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 - **[Vulnerability Management Program Implementation](https://github.com/DerekHein24/Vulnerability-Management-Program-Implementation)**
 - **[Programmatic Vulnerability Remediations (PowerShell, BASH, & Shell Commands)](https://github.com/DerekHein24/programmatic-vulnerability-remediations/tree/main)**
 
-## 🚨 Threat Hunting and Security Operations
-
-- **[Threat Hunting Scenario (Tor Browser Usage)](___)**
-
 <hr/>
 
 ## 🤳 Connect With Me
